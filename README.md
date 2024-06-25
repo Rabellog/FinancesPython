@@ -22,7 +22,6 @@ Este projeto foi desenvolvido para ajudar no controle financeiro pessoal, permit
 ## Tecnologias Utilizadas
 
 - <img src="https://img.icons8.com/color/48/000000/python.png"/> **Python:** Linguagem de programação principal utilizada para a lógica do projeto.
-- <img src="https://img.icons8.com/color/48/000000/tkinter.png"/> **Tkinter:** Biblioteca usada para criar a interface gráfica do usuário (GUI).
 
 ---
 [![Captura-de-tela-2024-06-25-002649.png](https://i.postimg.cc/ZKfRCF20/Captura-de-tela-2024-06-25-002649.png)](https://postimg.cc/QHTsz5Xr)
