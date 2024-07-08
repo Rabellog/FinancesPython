@@ -29,6 +29,3 @@ Este projeto foi desenvolvido para ajudar no controle financeiro pessoal, permit
 ## Contato
 
 Se desejar entrar em contato ou saber mais sobre mim, sinta-se à vontade para me encontrar nas seguintes redes sociais:
-
-- [GitHub](https://github.com/seu-usuario)
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
